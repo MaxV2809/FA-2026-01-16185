@@ -7,7 +7,7 @@
     <ProjectGuid>{F0A99B0D-0C8A-4B53-919B-59A1BE4AEAC9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>SE7_CS</RootNamespace>
-    <AssemblyName>SE7_CS</AssemblyName>
+    <AssemblyName>SE7-CS</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="EJERCICIO1.cs" />
+    <Compile Include="EJERCICIO2.cs" />
+    <Compile Include="EJERCICIO3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3efb420c-492a-491a-b09b-9eb747c8099c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SE8_PY.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,11 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="SE8_PY.py" />
+    <Compile Include="ejercicio1.py" />
+    <Compile Include="ejercicio2.py" />
+    <Compile Include="ejercicio3.py" />
+    <Compile Include="ejercicio4.py" />
+    <Compile Include="ejercicio5.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
